@@ -44,7 +44,7 @@
 
 
 # Designs
-<p>WeatherApp project UI is developed using Figma Designs https://www.figma.com/design/0zySCKWbyeRO805ifaz1lr/Weather-App-Test-Task?node-id=0-1</p>
+<p>WeatherApp project UI is developed using [Figma Designs](https://www.figma.com/design/0zySCKWbyeRO805ifaz1lr/Weather-App-Test-Task?node-id=0-1)</p>
 
 # Dependencies
 * No dependencies or third party libraries are used in this app
@@ -59,4 +59,4 @@
         - **Weather condition** (including an icon URL).
         - **Humidity (%).**
         - **UV index.**
-        - **Feels like **temperature.
+        - **Feels like** temperature.

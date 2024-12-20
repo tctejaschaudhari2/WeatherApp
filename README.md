@@ -19,7 +19,7 @@
 <p>
 1. Make sure you have the Xcode version 15.0 or above installed on your computer.<br>
 2. Minimum iOS target: 15.0.<br>
-3. Clone the Project from the given repository <br>
+3. Clone the Project from the given repository [link](https://github.com/tctejaschaudhari2/WeatherApp.git) <br>
 4. No need to run pod install as no dependencies are added<br>
 5. Open the WeatherApp.xcodeproj in Xcode.<br>
 6. Run the active scheme.<br>
